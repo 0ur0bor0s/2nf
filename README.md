@@ -9,3 +9,5 @@ The program will output `YES` if the grammar generates the string and `NO` if it
 java Cyk grammar_file aabba
 YES
 ```
+# More Info
+More informaiton about the CYK algorithm and context-free languages can be found here: https://en.wikipedia.org/wiki/CYK_algorithm
